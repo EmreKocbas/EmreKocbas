@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EmreKocbas/static/css/main.847bfd06.css",
+    "main.js": "/EmreKocbas/static/js/main.bb14c5d3.js",
+    "static/js/453.1407b060.chunk.js": "/EmreKocbas/static/js/453.1407b060.chunk.js",
+    "static/media/heroImg.jpg": "/EmreKocbas/static/media/heroImg.1317299df2a5ae73b9b0.jpg",
+    "static/media/cv.docx": "/EmreKocbas/static/media/cv.0da3178492e6d40ad864.docx",
+    "index.html": "/EmreKocbas/index.html",
+    "main.847bfd06.css.map": "/EmreKocbas/static/css/main.847bfd06.css.map",
+    "main.bb14c5d3.js.map": "/EmreKocbas/static/js/main.bb14c5d3.js.map",
+    "453.1407b060.chunk.js.map": "/EmreKocbas/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.847bfd06.css",
+    "static/js/main.bb14c5d3.js"
+  ]
+}
