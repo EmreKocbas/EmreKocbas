@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/EmreKocbas/static/css/main.847bfd06.css",
-    "main.js": "/EmreKocbas/static/js/main.bb14c5d3.js",
+    "main.css": "/EmreKocbas/static/css/main.5c7920cf.css",
+    "main.js": "/EmreKocbas/static/js/main.053cd0d1.js",
     "static/js/453.1407b060.chunk.js": "/EmreKocbas/static/js/453.1407b060.chunk.js",
+    "static/media/asia.PNG": "/EmreKocbas/static/media/asia.9eefef0d362ff4350880.PNG",
     "static/media/heroImg.jpg": "/EmreKocbas/static/media/heroImg.1317299df2a5ae73b9b0.jpg",
-    "static/media/cv.docx": "/EmreKocbas/static/media/cv.0da3178492e6d40ad864.docx",
+    "static/media/todo.PNG": "/EmreKocbas/static/media/todo.a26721d143ee3bb25a2c.PNG",
+    "static/media/cv.docx": "/EmreKocbas/static/media/cv.7ac1f2df169d6fc2dcd3.docx",
+    "static/media/textGeneratorApp.PNG": "/EmreKocbas/static/media/textGeneratorApp.1c6257a0a9489274d58f.PNG",
+    "static/media/chat.PNG": "/EmreKocbas/static/media/chat.a60643dc2432a6611725.PNG",
+    "static/media/weather.PNG": "/EmreKocbas/static/media/weather.2121f1def8f8dcb21ad1.PNG",
     "index.html": "/EmreKocbas/index.html",
-    "main.847bfd06.css.map": "/EmreKocbas/static/css/main.847bfd06.css.map",
-    "main.bb14c5d3.js.map": "/EmreKocbas/static/js/main.bb14c5d3.js.map",
+    "main.5c7920cf.css.map": "/EmreKocbas/static/css/main.5c7920cf.css.map",
+    "main.053cd0d1.js.map": "/EmreKocbas/static/js/main.053cd0d1.js.map",
     "453.1407b060.chunk.js.map": "/EmreKocbas/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.847bfd06.css",
-    "static/js/main.bb14c5d3.js"
+    "static/css/main.5c7920cf.css",
+    "static/js/main.053cd0d1.js"
   ]
 }
