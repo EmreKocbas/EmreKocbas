@@ -77,7 +77,7 @@
     }
 }
 
-@media (width >= 480px) {
+@media (width >= 800px) {
     .container{
         flex-direction: row-reverse;
         align-items: center;
