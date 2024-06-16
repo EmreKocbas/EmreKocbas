@@ -66,7 +66,7 @@ p{
     cursor: pointer;
 }
 
-@media (width >= 800px){
+@media (width >= 480px){
     #root{
         gap: 100px;
     }

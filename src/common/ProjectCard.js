@@ -1,10 +1,11 @@
 import React from 'react'
-
-function ProjectCard({src, link, p}) {
+import styles from '../components/Projects/ProjectsStyles.module.css'
+function ProjectCard({ src, link, p }) {
   return (
-    <a href={link}target='_blank'>
-                <p>{p}</p>
-            </a>
+    <a href={link} target='_blank' className={styles.gap}>
+      <img src={src} alt="weatherProject" />
+      <p>{p}</p>
+    </a>
   )
 }
 
