@@ -1,70 +1,115 @@
-# Getting Started with Create React App
+🇹🇷 Türkiye Etkinlik Platformu
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Türkiye genelindeki etkinlikleri tek bir platformda toplamayı amaçlayan, React ve Firebase altyapısı ile geliştirilmiş modern bir web uygulaması.
 
-## Available Scripts
+Uygulama; kullanıcıların şehir bazlı etkinlikleri keşfetmesini ve sanatçılarla etkileşime geçmesini sağlarken, yetkili yöneticiler için güvenli ve kontrollü bir admin paneli sunar. Proje uçtan uca tamamlanmış ve canlı ortama alınmıştır.
 
-In the project directory, you can run:
+🚀 Özellikler
+👥 Kullanıcı Özellikleri
 
-### `npm start`
+Google ile giriş (Firebase Authentication)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Şehir bazlı etkinlik listeleme
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Etkinlik arama
 
-### `npm test`
+Etkinliklerde yer alan sanatçılara puan verebilme
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Modern ve kullanıcı dostu arayüz
 
-### `npm run build`
+Responsive tasarım (mobil uyumlu)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🎤 Sanatçı Sistemi
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Etkinliklere bağlı sanatçı tanımlamaları
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Kullanıcıların sanatçılara puan verebilmesi
 
-### `npm run eject`
+Sanatçı verileri admin paneli üzerinden yönetilmektedir
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+(Sanatçılar için ayrı profil sayfaları geliştirilmeye açıktır)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+🛠️ Admin Paneli
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Sadece yetkili kullanıcıların erişebildiği admin paneli
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Etkinlik ekleme / düzenleme / silme
 
-## Learn More
+Etkinliklere sanatçı ekleme
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Görsel yükleme ve yönetimi
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Kullanıcı ve içerik verilerini görüntüleme
 
-### Code Splitting
+Rol bazlı erişim kontrolü
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+☁️ Backend & Veri Yönetimi
 
-### Analyzing the Bundle Size
+Firebase Authentication (Google Sign-In)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Firestore Database
 
-### Making a Progressive Web App
+Firebase Storage (görsellerin yedeklenmesi)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Gerçek zamanlı veri yönetimi
 
-### Advanced Configuration
+Güvenli erişim kuralları
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+🧱 Kullanılan Teknolojiler
 
-### Deployment
+React
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Firebase
 
-### `npm run build` fails to minify
+Authentication
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Firestore
+
+Storage
+
+Netlify (Deployment)
+
+JavaScript (ES6+)
+
+Modern UI / CSS yapısı
+
+🌍 Canlı Demo
+
+🔗 Live Demo:
+(Buraya Netlify linkini ekle)
+
+Uygulama Netlify üzerinden deploy edilmiştir ve aktif olarak çalışmaktadır.
+
+🔐 Yetkilendirme Yapısı
+
+Kullanıcı:
+Etkinlikleri görüntüler, arama yapar, sanatçılara puan verir
+
+Admin:
+Admin paneline erişir, etkinlik ve içerik yönetimini yapar
+
+Yetkilendirme Firebase Authentication ve Firestore güvenlik kuralları ile sağlanmaktadır.
+
+🧠 Proje Amacı
+
+Türkiye’deki etkinliklerin farklı platformlarda dağınık halde bulunması yerine, kullanıcıların tek bir merkezden şehir bazlı arama yapabilmesini sağlamak.
+
+Aynı zamanda yöneticiler için etkinlik ve içeriklerin kolayca yönetilebildiği, ölçeklenebilir bir admin paneli sunmak.
+
+🔧 Geliştirilebilir Özellikler
+
+Sanatçılar için ayrı profil sayfaları
+
+Etkinlik favorileme sistemi
+
+Kullanıcı yorumları
+
+Gelişmiş filtreleme ve kategori sistemi
+
+Proje, yeni özellikler eklenmeye uygun şekilde geliştirilmiştir.
+
+👨‍💻 Geliştirici
+
+Emre Kocbaş
+Frontend Developer
+React | Firebase
