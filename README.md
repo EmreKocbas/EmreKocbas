@@ -2,7 +2,7 @@
 
 Türkiye genelindeki etkinlikleri tek bir platformda toplamayı amaçlayan, React ve Firebase altyapısı ile geliştirilmiş modern bir web uygulaması.
 
-Uygulama; kullanıcıların şehir bazlı etkinlikleri keşfetmesini ve sanatçılarla etkileşime geçmesini sağlarken, yetkili yöneticiler için güvenli ve kontrollü bir admin paneli sunar. Proje uçtan uca tamamlanmış ve canlı ortama alınmıştır.
+Uygulama; kullanıcıların şehir bazlı etkinlikleri keşfetmesini ve sanatçılarla etkileşime geçmesini sağlarken, yetkili yöneticiler için güvenli ve kontrollü bir admin paneli sunar. Proje canlı ortama alınmıştır.
 
 🚀 Özellikler
 👥 Kullanıcı Özellikleri
