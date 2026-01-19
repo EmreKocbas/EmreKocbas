@@ -76,7 +76,7 @@ Modern UI / CSS yapısı
 🌍 Canlı Demo
 
 🔗 Live Demo:
-(Buraya Netlify linkini ekle)
+https://tretkinlikleri.netlify.app/
 
 Uygulama Netlify üzerinden deploy edilmiştir ve aktif olarak çalışmaktadır.
 
